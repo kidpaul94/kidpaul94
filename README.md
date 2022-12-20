@@ -8,10 +8,10 @@
 <!--END_SECTION:update_image-->
 
 <a href="https://github.com/kidpaul94/github-readme-stats">
-    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api?username=kidpaul94&show_icons=true&hide_title=true&theme=radical">
+    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api?username=kidpaul94&show_icons=true&hide_title=true&theme=radical&card_width=400">
 </a>
 <a href="https://github.com/kidpaul94/github-readme-stats">
-    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact">
+    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact&card_width=200">
 </a>
 <br/>
 
