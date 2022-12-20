@@ -2,7 +2,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=2000&pause=1000&color=D4D32CFD&center=true&multiline=true&width=435&height=85&lines=Hojun+Lee;Research+Associate+%7C+Roboticist;AI+%7C+Computer+VIsion+%7C+Control+Theory" alt="Typing SVG" />
 </a>
 <br/>
-  
+
+<!--START_SECTION:update_image-->
+<img src=https://minimalistic-wallpaper.demolab.com/?random height=25% width=100% alt=Daily Wallpaper />
+<!--END_SECTION:update_image-->
+
+<a href="https://github.com/kidpaul94/github-readme-stats">
+    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api?username=kidpaul94&show_icons=true&theme=radical">
+</a>
+<a href="https://github.com/kidpaul94/github-readme-stats">
+    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact">
+</a>
+<br/>
+
 <a href="https://kidpaul94.github.io/">
     <img src="https://img.shields.io/badge/Website-kidpaul94-green?style=flat-square">
 </a>
@@ -17,16 +29,6 @@
 </a>
 <a href='https://scholar.google.com/citations?hl=en&user=SLpPgLYAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<br/>
-
-<a href="https://github.com/kidpaul94/github-readme-stats">
-    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api?username=kidpaul94&show_icons=true&theme=radical">
-</a>
-<br/>
-
-<a href="https://github.com/kidpaul94/github-readme-stats">
-    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact">
 </a>
 </p>
 
