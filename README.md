@@ -29,3 +29,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact">
 </a>
 </p>
+
+* 📖 Conducting Research on **Robotics** and **AI** @ [BRG](https://brg.engin.umich.edu/).
+
+* 💻 Currently working on 6DOF Robot Grasp Detection.
+
+* 💡 Open to collaborating on various robotics and AI related projects. 
