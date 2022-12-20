@@ -4,7 +4,7 @@
 <br/>
   
 <a href="https://kidpaul94.github.io/">
-    <img src="https://img.shields.io/badge/Website-kidpaul94-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-kidpaul94-green?style=flat-square">
 </a>
 <a href="https://drive.google.com/file/d/1pQlAsNTxha5LvPFjZZ33Dc194sMqUKq-/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
