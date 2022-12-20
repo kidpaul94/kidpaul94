@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api?username=kidpaul94&show_icons=true&hide_title=true&theme=radical&card_width=450">
 </a>
 <a href="https://github.com/kidpaul94/github-readme-stats">
-    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact">
+    <img src="https://github-readme-stats-cu62vtmpu-kidpaul94.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact&card_width=350">
 </a>
 <br/>
 
