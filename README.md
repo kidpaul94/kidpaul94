@@ -4,7 +4,7 @@
 <br/>
 
 <!--START_SECTION:update_image-->
-<img src=https://minimalistic-wallpaper.demolab.com/?random height=25% width=100% alt=Daily Wallpaper />
+<img src=https://minimalistic-wallpaper.demolab.com/?random height=10% width=100%/>
 <!--END_SECTION:update_image-->
 
 <a href="https://github.com/kidpaul94/github-readme-stats">
