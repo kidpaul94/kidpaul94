@@ -1,9 +1,31 @@
-### Welcome,
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=2000&pause=1000&color=D4D32CFD&center=true&multiline=true&width=435&height=85&lines=Hojun+Lee;Research+Associate+%7C+Roboticist;AI+%7C+Computer+VIsion+%7C+Control+Theory" alt="Typing SVG" />
+</a>
+<br/>
+  
+<a href="https://kidpaul94.github.io/">
+    <img src="https://img.shields.io/badge/Website-kidpaul94-red?style=flat-square">
+</a>
+<a href="https://drive.google.com/file/d/1pQlAsNTxha5LvPFjZZ33Dc194sMqUKq-/view?usp=sharing">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>
+<a href="https://www.linkedin.com/in/hjunlee94/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:hjunlee@umich.edu">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com/citations?hl=en&user=SLpPgLYAAAAJ' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<br/>
 
-I'm a robotics enthusiast currently working as a research associate at the University of Michigan.
+<a href="https://github.com/kidpaul94">
+    <img src="https://github-readme-stats.vercel.app/api?username=kidpaul94&show_icons=true&theme=radical">
+</a>
+<br/>
 
-Check out more on my [LinkedIn](https://www.linkedin.com/in/hjunlee94/) and [website](https://kidpaul94.github.io/). 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidpaul94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/kidpaul94">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidpaul94&theme=radical&layout=compact">
+</a>
+</p>
