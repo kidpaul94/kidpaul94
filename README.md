@@ -30,8 +30,8 @@
 </a>
 </p>
 
-* 📖 Conducting Research on **Robotics** and **AI** @ [BRG](https://brg.engin.umich.edu/).
+* :desktop_computer: Conducted research on **Robotics** and **AI** @ [BRG](https://brg.engin.umich.edu/).
 
-* 💻 Currently working on 6DOF Robot Grasp Detection.
+* :bulb: Open to collaborating on various robotics and AI related projects. 
 
-* 💡 Open to collaborating on various robotics and AI related projects. 
+* :mortar_board: Incoming PhD student at **Purdue University**.
