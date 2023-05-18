@@ -4,9 +4,9 @@
 <br/>
 
 <!--START_SECTION:update_image-->
-<!-- <img src=https://minimalistic-wallpaper.demolab.com/?random height=100% width=100%/>
+<img src=https://minimalistic-wallpaper.demolab.com/?random height=100% width=100%/>
 <!--END_SECTION:update_image-->
-<a href="https://github.com/kidpaul94/github-readme-stats">
+<!-- <a href="https://github.com/kidpaul94/github-readme-stats">
     <img src="https://github-readme-stats-rho-five-56.vercel.app/api?username=kidpaul94&show_icons=true&hide_title=true&theme=radical&card_width=460">
 </a>
 <a href="https://github.com/kidpaul94/github-readme-stats">
