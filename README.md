@@ -34,4 +34,4 @@
 
 * :bulb: Open to collaborating on various robotics and AI related projects. 
 
-* :mortar_board: Incoming PhD student @ **Purdue University**.
+* :mortar_board: PhD student @ **Purdue University**.
