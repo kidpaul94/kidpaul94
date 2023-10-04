@@ -16,7 +16,7 @@
 <a href="https://kidpaul94.github.io/">
     <img src="https://img.shields.io/badge/Website-kidpaul94-green?style=flat-square">
 </a>
-<a href="https://drive.google.com/file/d/1pV9FvpgRMEYaEtRUSUE5-SnOvjk3J03p/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1sd-H5AJ7PFfhG0dhz0367z6KPDh71TFE/view?usp=drive_link">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/hjunlee94/">
