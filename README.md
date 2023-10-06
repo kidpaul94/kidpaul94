@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/hjunlee94/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:hjunlee@umich.edu">
+<a href="mailto:lee1764@purdue.edu">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?hl=en&user=SLpPgLYAAAAJ' target="_blank">
