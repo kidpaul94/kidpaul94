@@ -35,3 +35,10 @@
 * :bulb: Open to collaborating on various robotics and AI related projects. 
 
 * :mortar_board: PhD student @ **Purdue University**.
+
+![Readme Card](https://github-readme-stats-kidpaul94.vercel.app/api/pin/?username=kidpaul94\&repo=IK-MPC\&theme=radical)
+![Readme Card](https://github-readme-stats-kidpaul94.vercel.app/api/pin/?username=kidpaul94\&repo=kmr-iiwa-gripkit-cr-plus-l\&theme=radical)    
+![Readme Card](https://github-readme-stats-kidpaul94.vercel.app/api/pin/?username=kidpaul94\&repo=grasp-factory\&theme=radical)
+![Readme Card](https://github-readme-stats-kidpaul94.vercel.app/api/pin/?username=kidpaul94\&repo=Robot-Keypoints\&theme=radical)
+![Readme Card](https://github-readme-stats-kidpaul94.vercel.app/api/pin/?username=kidpaul94\&repo=My-Robotic-Grasping\&theme=radical)
+![Readme Card](https://github-readme-stats-kidpaul94.vercel.app/api/pin/?username=kidpaul94\&repo=MIL-WSI\&theme=radical)
